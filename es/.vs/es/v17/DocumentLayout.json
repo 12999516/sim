@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sebastiano\\Desktop\\libro\\es\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A04826-A2D4-4ED3-A6F6-6D6235EE79B4}|es\\es.csproj|c:\\users\\sebastiano\\desktop\\libro\\es\\es\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A04826-A2D4-4ED3-A6F6-6D6235EE79B4}|es\\es.csproj|solutionrelative:es\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A04826-A2D4-4ED3-A6F6-6D6235EE79B4}|es\\es.csproj|c:\\users\\sebastiano\\desktop\\libro\\es\\es\\csim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A04826-A2D4-4ED3-A6F6-6D6235EE79B4}|es\\es.csproj|solutionrelative:es\\csim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A04826-A2D4-4ED3-A6F6-6D6235EE79B4}|es\\es.csproj|c:\\users\\sebastiano\\desktop\\libro\\es\\es\\ctel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A04826-A2D4-4ED3-A6F6-6D6235EE79B4}|es\\es.csproj|solutionrelative:es\\ctel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastiano\\Desktop\\libro\\es\\es\\Program.cs",
+              "RelativeDocumentMoniker": "es\\Program.cs",
+              "ToolTip": "C:\\Users\\Sebastiano\\Desktop\\libro\\es\\es\\Program.cs",
+              "RelativeToolTip": "es\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:38:39.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ctel.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastiano\\Desktop\\libro\\es\\es\\Ctel.cs",
+              "RelativeDocumentMoniker": "es\\Ctel.cs",
+              "ToolTip": "C:\\Users\\Sebastiano\\Desktop\\libro\\es\\es\\Ctel.cs",
+              "RelativeToolTip": "es\\Ctel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:42:10.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Csim.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastiano\\Desktop\\libro\\es\\es\\Csim.cs",
+              "RelativeDocumentMoniker": "es\\Csim.cs",
+              "ToolTip": "C:\\Users\\Sebastiano\\Desktop\\libro\\es\\es\\Csim.cs",
+              "RelativeToolTip": "es\\Csim.cs",
+              "ViewState": "AgIAACkAAAAAPAAAAADgvyEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:40:52.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
